@@ -2,7 +2,7 @@
 
 - 😊 Sempre tive uma paixão por tecnologia, e trabalhar com sistemas de e-commerce me fez querer entrar a fundo neste gigantesco mundo
 - 🤓 Iniciei meus estudos em programação por conta prória e atualmente curso Ciencia da Computação
-- ✍ No momento tenho focado meus estudos em Front-end  
+- ✍ No momento tenho focado meus estudos em Back-end Java  
 
 <div align="center">
   <a href="https://github.com/Ju22r">
